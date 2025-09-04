@@ -1,4 +1,11 @@
 # 👋 Welcome to [Your Organization Name]  
+<a href="https://github.com/Drive-for-Java/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Drive-for-Java+GitHub+Community+Organization">
+  <img src="https://img.shields.io/badge/🚀_Join-Drive-for-Java_Org-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" 
+       alt="Join Drive-for-Java Org" 
+       onmouseover="this.src='https://img.shields.io/badge/🚀_Join-Drive-for-Java_Org-1DA1F2?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e';" 
+       onmouseout="this.src='https://img.shields.io/badge/🚀_Join-Drive-for-Java_Org-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e';">
+</a>
+
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-org)
 [![Website](https://img.shields.io/badge/🌐-Website-brightgreen?style=for-the-badge)](https://your-website.com)
