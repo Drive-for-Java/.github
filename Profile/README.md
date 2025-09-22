@@ -27,7 +27,7 @@ Our Current stack include:<div align=center>
 </div>
 <div align=center>
   
-#  🌟Hall of Fame
+#  🌟Drive-for-Java Community
 </div>
 <div align=center>
 <table>
@@ -58,33 +58,6 @@ Our Current stack include:<div align=center>
 </div>
 <div align=center>
   
-## 🤝 Join Us
-
-
-We’re always looking for **passionate members** to collaborate. Join our Community and Contribute to our awesome repos.
-<div align=center>💖Your Work can make this community glow and shine in Moonlight💖</div>
-</div>
-<div align="center">
-  <h3>
-    🌟 Your Face Here?
-  </h3>
-  <table>
-    <tr>
-      <td>
-  <p>
-    <a href="https://github.com/Drive-for-Java/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
-      <img src="https://avatars.githubusercontent.com/u/0?v=4" width="80" alt="Your Avatar" title="Your Avatar" /><br />
-      <sub><b>Future Legend</b></sub><br />
-      <sup>@yourusername</sup>
-    </a>
-  </p>
-      </td>
-    </tr>
-  </table>
-  <p>
-    We're on the lookout for <strong>elite-level developers</strong> to join our fast-moving, global, modern team. <br />
-    If you're a builder with vision, speed, and taste - we want to see you here. 
-  </p>
   <p>
     <a href="https://github.com/Drive-for-Java/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">👾 Join the Drive-for-Java</a> and make your mark on the future.
   </p>
