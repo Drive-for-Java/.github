@@ -59,7 +59,7 @@ Our Current stack include:<div align=center>
 <div align=center>
   
   <p>
-    <a href="https://github.com/Drive-for-Java/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">👾 Join the Drive-for-Java</a> and make your mark on the future.
+    <a href="https://github.com/Drive-for-Java/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">👾 Join the Drive-for-Java</a> 
   </p>
 </div>
 
