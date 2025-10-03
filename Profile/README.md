@@ -50,8 +50,20 @@ Our Current stack include:<div align=center>
      </td>
   </tr>
   <tr>
-   <td> <img src="https://github.com/amitjadiya.png" alt="Amit" height="100"><br>
+   <td> <img src="https://github.com/johnny603.png" alt="johnny603" height="100"><br>
+         <a href="https://github.com/johnny603">  Johnny Santamaria </a>
+     </td> 
+      <td> <img src="https://github.com/amitjadiya.png" alt="Amit" height="100"><br>
          <a href="https://github.com/amitjadiya">  Amit Kumar </a>
+     </td> 
+      <td> <img src="https://github.com/SauravBhowmick.png" alt="Amit" height="100"><br>
+         <a href="https://github.com/SauravBhowmick">  Saurav Bhowmick </a>
+     </td> 
+      <td> <img src="https://github.com/JayantGoel001.png" alt="JayantGoel001" height="100"><br>
+         <a href="https://github.com/JayantGoel001">  Jayant Goel </a>
+     </td> 
+      <td> <img src="https://github.com/SaurabhCodesAI.png" alt="SaurabhCodesAI" height="100"><br>
+         <a href="https://github.com/SaurabhCodesAI">  Saurabh </a>
      </td> 
   </tr>
 </table>
