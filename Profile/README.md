@@ -66,6 +66,28 @@ Our Current stack include:<div align=center>
          <a href="https://github.com/SaurabhCodesAI">  Saurabh </a>
      </td> 
   </tr>
+  <tr>
+        </td> 
+      <td> <img src="https://github.com/BaseMax.png" alt="BaseMax" height="100"><br>
+         <a href="https://github.com/BaseMax">  Max Base </a>
+     </td> 
+          </td> 
+      <td> <img src="https://github.com/AayushSahani01.png" alt="AayushSahani01" height="100"><br>
+         <a href="https://github.com/AayushSahani01"> Aayush Sahani </a>
+     </td> 
+          </td> 
+      <td> <img src="https://github.com/mkh-dev.png" alt="mkh-dev" height="100"><br>
+         <a href="https://github.com/mkh-dev">  MK </a>
+     </td> 
+          </td> 
+      <td> <img src="https://github.com/smirk-dev.png" alt="smirk-dev" height="100"><br>
+         <a href="https://github.com/smirk-dev">  Suryansh Mishra </a>
+     </td> 
+          </td> 
+      <td> <img src="https://github.com/rahmantamim11.png" alt="rahmantamim11" height="100"><br>
+         <a href="https://github.com/rahmantamim11">  Rahman Tamim </a>
+     </td> 
+  </tr>
 </table>
 </div>
 <div align=center>
